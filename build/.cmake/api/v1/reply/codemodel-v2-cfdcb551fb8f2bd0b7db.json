@@ -18,7 +18,7 @@
 					]
 				}
 			],
-			"name" : "",
+			"name" : "Debug",
 			"projects" : 
 			[
 				{
@@ -38,7 +38,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "通讯录管理系统::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-通讯录管理系统-9784f2dae1377571c2db.json",
+					"jsonFile" : "target-通讯录管理系统-Debug-1fc69e0ccb92fd25c00a.json",
 					"name" : "通讯录管理系统",
 					"projectIndex" : 0
 				}

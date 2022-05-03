@@ -6,5 +6,5 @@ CXX_DEFINES =
 
 CXX_INCLUDES = -I/root/C++项目/通讯录管理系统/include
 
-CXX_FLAGS = 
+CXX_FLAGS = -g
 

@@ -1,1 +1,1 @@
-/usr/bin/aarch64-redhat-linux-g++ -rdynamic CMakeFiles/通讯录管理系统.dir/main.cpp.o CMakeFiles/通讯录管理系统.dir/src/通讯录管理系统.cpp.o -o 通讯录管理系统 
+/usr/bin/aarch64-redhat-linux-g++ -g -rdynamic CMakeFiles/通讯录管理系统.dir/main.cpp.o CMakeFiles/通讯录管理系统.dir/src/通讯录管理系统.cpp.o -o 通讯录管理系统 
