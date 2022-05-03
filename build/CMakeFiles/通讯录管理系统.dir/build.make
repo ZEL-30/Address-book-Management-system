@@ -73,29 +73,29 @@ CMakeFiles/通讯录管理系统.dir/main.cpp.o: CMakeFiles/通讯录管理系�
 CMakeFiles/通讯录管理系统.dir/main.cpp.o: ../main.cpp
 CMakeFiles/通讯录管理系统.dir/main.cpp.o: CMakeFiles/通讯录管理系统.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/root/C++项目/通讯录管理系统/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/通讯录管理系统.dir/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/通讯录管理系统.dir/main.cpp.o -MF CMakeFiles/通讯录管理系统.dir/main.cpp.o.d -o CMakeFiles/通讯录管理系统.dir/main.cpp.o -c /root/C++项目/通讯录管理系统/main.cpp
+	/usr/bin/aarch64-redhat-linux-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/通讯录管理系统.dir/main.cpp.o -MF CMakeFiles/通讯录管理系统.dir/main.cpp.o.d -o CMakeFiles/通讯录管理系统.dir/main.cpp.o -c /root/C++项目/通讯录管理系统/main.cpp
 
 CMakeFiles/通讯录管理系统.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/通讯录管理系统.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /root/C++项目/通讯录管理系统/main.cpp > CMakeFiles/通讯录管理系统.dir/main.cpp.i
+	/usr/bin/aarch64-redhat-linux-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /root/C++项目/通讯录管理系统/main.cpp > CMakeFiles/通讯录管理系统.dir/main.cpp.i
 
 CMakeFiles/通讯录管理系统.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/通讯录管理系统.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /root/C++项目/通讯录管理系统/main.cpp -o CMakeFiles/通讯录管理系统.dir/main.cpp.s
+	/usr/bin/aarch64-redhat-linux-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /root/C++项目/通讯录管理系统/main.cpp -o CMakeFiles/通讯录管理系统.dir/main.cpp.s
 
 CMakeFiles/通讯录管理系统.dir/src/通讯录管理系统.cpp.o: CMakeFiles/通讯录管理系统.dir/flags.make
 CMakeFiles/通讯录管理系统.dir/src/通讯录管理系统.cpp.o: ../src/通讯录管理系统.cpp
 CMakeFiles/通讯录管理系统.dir/src/通讯录管理系统.cpp.o: CMakeFiles/通讯录管理系统.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/root/C++项目/通讯录管理系统/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/通讯录管理系统.dir/src/通讯录管理系统.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/通讯录管理系统.dir/src/通讯录管理系统.cpp.o -MF CMakeFiles/通讯录管理系统.dir/src/通讯录管理系统.cpp.o.d -o CMakeFiles/通讯录管理系统.dir/src/通讯录管理系统.cpp.o -c /root/C++项目/通讯录管理系统/src/通讯录管理系统.cpp
+	/usr/bin/aarch64-redhat-linux-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/通讯录管理系统.dir/src/通讯录管理系统.cpp.o -MF CMakeFiles/通讯录管理系统.dir/src/通讯录管理系统.cpp.o.d -o CMakeFiles/通讯录管理系统.dir/src/通讯录管理系统.cpp.o -c /root/C++项目/通讯录管理系统/src/通讯录管理系统.cpp
 
 CMakeFiles/通讯录管理系统.dir/src/通讯录管理系统.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/通讯录管理系统.dir/src/通讯录管理系统.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /root/C++项目/通讯录管理系统/src/通讯录管理系统.cpp > CMakeFiles/通讯录管理系统.dir/src/通讯录管理系统.cpp.i
+	/usr/bin/aarch64-redhat-linux-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /root/C++项目/通讯录管理系统/src/通讯录管理系统.cpp > CMakeFiles/通讯录管理系统.dir/src/通讯录管理系统.cpp.i
 
 CMakeFiles/通讯录管理系统.dir/src/通讯录管理系统.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/通讯录管理系统.dir/src/通讯录管理系统.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /root/C++项目/通讯录管理系统/src/通讯录管理系统.cpp -o CMakeFiles/通讯录管理系统.dir/src/通讯录管理系统.cpp.s
+	/usr/bin/aarch64-redhat-linux-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /root/C++项目/通讯录管理系统/src/通讯录管理系统.cpp -o CMakeFiles/通讯录管理系统.dir/src/通讯录管理系统.cpp.s
 
 # Object files for target 通讯录管理系统
 通讯录管理系统_OBJECTS = \
